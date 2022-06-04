@@ -2,7 +2,7 @@ const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contrac
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Isle of Plumii NFT Project!!";
-const welcome_h2 = "Connect to [MetaMask](https://metamask.io) to Get Started";
+const welcome_h2 = "Connect to Metamask to Get Started";
 const welcome_p = 'The Isle of Plumii NFT Project is a decentralized. Leading the way to the Metaverse';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
